@@ -1,0 +1,14 @@
+/*val rawBody = call.receiveText()
+    logger.info("Raw JSON Body: $rawBody") // ✅ Debugging line
+    val request = try {
+        Json.decodeFromString<RegisterRequest>(rawBody) // ✅ Manual parsing
+    } catch (e: Exception) {
+        call.respond(HttpStatusCode.BadRequest, "Invalid JSON format: ${e.message}")
+        return@post
+}*/
+
+
+                /*if (call.request.contentType() != ContentType.Application.Json) {
+                    call.respond(HttpStatusCode.UnsupportedMediaType, "Expected application/json")
+                    return@post
+                }*/

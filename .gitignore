@@ -35,5 +35,5 @@ out/
 ### VS Code ###
 .vscode/
 
-ktor-api.postman_collection.json
+ExtraCode
 src/main/resources/fir-demo-573d1-firebase-adminsdk-yrnrh-7bd81bbd5c.json

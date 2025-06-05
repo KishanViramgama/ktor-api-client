@@ -83,13 +83,26 @@ Get a list of all registered users.
 
 Test all APIs easily using the included Postman collection.  
 📥 [Download Postman Collection](https://github.com/KishanViramgama/ktor-api-client/blob/master/ktor-api.postman_collection.json)
+<br><br>
+## 📱 Mobile Application Authentication Demo
 
+Looking for a **mobile application** that demonstrates **user login and registration** using the same Ktor API provided in this project? Check out the companion Android demo app:
+
+🔗 **Android Demo App (Login & Register):**  
+[https://github.com/KishanViramgama/LoginRegister](https://github.com/KishanViramgama/LoginRegister)
+
+This Android project is fully integrated with this API and showcases:
+
+- ✅ User **registration** flow  
+- 🔐 User **login** handling  
+- 🔗 **Ktor client** API integration  
+- 🎨 **Jetpack Compose UI** (if applicable)
+
+Clone and run the app on your emulator or device to experience the complete authentication flow in action.
 
 ## 🤝 Contributing
 
 Pull requests and issues are welcome! Feel free to fork the project and enhance it.
-
-
 
 ## 📣 Let's Connect
 
